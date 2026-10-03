@@ -1,5 +1,7 @@
 # IEEE YP Industry Hackathon: Autonomous Intelligence for Industrial Innovation
 
+link to slides: https://canva.link/f4u4rlrgfjq2fky
+
 [![Repo traffic](https://raw.githubusercontent.com/nagusubra/traffic/main/doc/metric/industry-hackathon-lab/badge.svg)](https://nagusubra.github.io/traffic/doc/metric/industry-hackathon-lab/)
 
 **Hosted by:** IEEE Southern Alberta Section Young Professionals (IEEE SAS YP)
