@@ -9,6 +9,7 @@ link to slides: https://canva.link/f4u4rlrgfjq2fky
 **Duration:** 48-hour hackathon (48 hours)
 **Location:** Collision Space, Hunter Hub, University of Calgary
 **Website:** [southern-alberta.ieeecanada.org](https://southern-alberta.ieeecanada.org/)
+**Kickoff Slides:** [Industry Hackathon – Kickoff Deck](https://canva.link/f4u4rlrgfjq2fky)
 
 ---
 
